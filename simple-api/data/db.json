@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "aymaaaaaan",
+      "display_name": "aymanjamal",
+      "description": "food lover"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "hi",
+      "name": "ahmaaaad",
+      "display_name": "ahmadjamal",
+      "description": "game lover"
+    },
+    {
+      "_id": 2,
+      "category": "lan",
+      "name": "hala",
+      "display_name": "lala",
+      "description": "haha "
+    }
+  ]
+}
